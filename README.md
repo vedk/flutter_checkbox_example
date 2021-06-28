@@ -6,5 +6,5 @@ A small Flutter project to demonstrate the use of the `Checkbox` widget.
 
 Run the command below to clone this repo. Then open it in Android Studio.
 ```
-git clone
+git clone https://github.com/vedk/flutter_checkbox_example.git
 ```
